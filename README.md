@@ -1,2 +1,2 @@
 # JScalculator
-https://okungbowagodspower.github.io/JScalculator/Javascriptcalculator/
+https://okungbowagodspower.github.io/JScalculator/Javascript20%calculator/
